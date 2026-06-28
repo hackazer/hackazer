@@ -10,8 +10,23 @@ DevOps • Blockchain • Infrastructure
 </p>
 
 <p align="center">
-🌐 <a href="https://riz.my.id">Portfolio</a>
+<img src="https://komarev.com/ghpvc/?username=hackazer&color=2ea44f&style=flat-square" alt="Profile Views" />
+<a href="https://github.com/hackazer?tab=followers"><img src="https://img.shields.io/github/followers/hackazer?label=Followers&style=flat-square&color=2ea44f" alt="Followers" /></a>
+<a href="https://riz.my.id"><img src="https://img.shields.io/badge/Portfolio-riz.my.id-0077ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/rizaldyputra"><img src="https://img.shields.io/badge/LinkedIn-Rizaldy_Putra-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/hackazer"><img src="https://img.shields.io/badge/Instagram-@hackazer-e4405f?style=flat-square&logo=instagram" alt="Instagram" /></a>
 </p>
+
+---
+
+## 🧭 About Me
+
+An AI/IT Engineer with 7+ years of experience who can't sit still: if there's a real problem, I build the software for it; if there's an API, I automate it. My daily grind ranges from building applications and scaling containerized infrastructure to playing with AI agents and securing networks.
+
+- 🤖 I treat AI as a coworker, not a threat - and enjoy building tools that wire into LLMs
+- 🌱 Always poking at something new: web, mobile, trading, ML, security
+- 🐈‍⬛ Cybersecurity is my new cats, i mean i'm playing with it everyday
+- 🚀 I don't just ship code, I build and automate the entire pipeline so everything runs smoothly
 
 ---
 
