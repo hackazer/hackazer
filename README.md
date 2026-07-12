@@ -34,6 +34,15 @@ An AI/IT Engineer with 7+ years of experience who can't sit still: if there's a 
 
 <table>
 <tr>
+<td colspan="3" align="center">
+
+**Backspin**
+Get paid to vibecode. Reach every developer waiting on AI <a href="https://usebackspin.com">Live</a>
+
+</td>
+</tr>
+
+<tr>
 <td>
 
 **TemanQRIS**
@@ -95,6 +104,28 @@ Web3 exploration project <a href="https://web3ego.com">Live</a>
 
 </td>
 </tr>
+
+<tr>
+<td>
+
+**Ilang.in**
+Pioneer of Indonesia URL Shortener <a href="https://ilang.in">Live</a>
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="center">
+
+**RekberPay**
+Indonesian escrow platform for safe buyer-seller transactions <a href="https://rekberpay.com">Live</a>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -112,14 +143,11 @@ Web3 exploration project <a href="https://web3ego.com">Live</a>
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=hackazer&show_icons=true&theme=tokyonight&hide_border=true"/>
-</td>
-<td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackazer&theme=tokyonight&hide_border=true"/>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hackazer&theme=tokyonight"/>
 </td>
 </tr>
